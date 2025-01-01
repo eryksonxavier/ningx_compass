@@ -97,7 +97,7 @@ Substitua o "$user" pelo nome de seu usuário.
 mkdir scripts
 ```  
     
-#### 5.2 Crie o arquivo script nginx_status_check.sh:
+#### 5.2 Crie o arquivo script nginx_status.sh:
 ```bash
 sudo nano scripts/nginx_status.sh
 ```  
