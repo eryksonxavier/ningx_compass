@@ -147,7 +147,7 @@ crontab -e
 ```     
 #### 6.2 Dentro da crontab, insira esta linha de comando e salve o arquivo para ser executado a cada 5 minutos:
 ```bash
-*/5 * * * * scripts/nginx_status_check.sh
+*/5 * * * * scripts/nginx_status.sh
 ```
 
 Guia prático de como estruturar o crontab:
